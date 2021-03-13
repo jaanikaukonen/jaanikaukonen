@@ -1,6 +1,6 @@
 ## Hi there, I'm Jaani. Good to see you here 👋
 
-### I'm a developer who is passioned about code functionality and also the overall design and user experience of the product
+### I'm a developer who is passioned about code, design and the user experience of the product
 - 👨🏼‍🎓 I’m a Bachelor's degree student of Information and Communication Technologies at Metropolia University of Applied Sciences
 - 💻 I’m currently learning more about web technologies and mobile solutions
 - 🕵🏼 I’m looking for open junior software engineer positions
