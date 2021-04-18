@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I'm obsessed with making artisan style Pizze
 
 ### Connect with me:
-[<img align="left" alt="Facebook" height="32" width="32" src="https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png" />][facebook]
-[<img align="left" alt="LinkedIn" height="32" width="32" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" alt="Facebook" height="32" width="32" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
+[<img align="left" alt="LinkedIn" height="32" width="32" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1618744804~hmac=2d485e4dc8d20fb7de93a2ae97c6c0b8" />][linkedin]
                                                                                                                               
 <br />
 <br />
