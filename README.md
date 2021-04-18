@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I'm obsessed with making artisan style Pizze
 
 ### Connect with me:
-[<img align="left" alt="Facebook" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LinkedIn" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Facebook" height="32" width="32" src="https://www.iconsdb.com/icons/preview/white/facebook-3-xxl.png" />][facebook]
+[<img align="left" alt="LinkedIn" height="32" width="32" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />][linkedin]
+                                                                                                                              
 <br />
 <br />
 
