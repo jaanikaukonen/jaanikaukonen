@@ -10,14 +10,14 @@
 ### Portfolio
 [jaanikaukonen.com][portfolio]
 
-### Connect with me:
+### Connect with me
 [<img align="left" alt="Facebook" height="32" width="32" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
 [<img align="left" alt="LinkedIn" height="32" width="32" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
                                                                                                                               
 <br />
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 <img align="left" alt="Javascript" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Kotlin" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="React Native" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
