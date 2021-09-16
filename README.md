@@ -7,6 +7,9 @@
 - 💪 2021 Goals: Learn at least one new programming language and get familiar with blockchain technologies
 - ⚡ Fun fact: I'm obsessed with making artisan style Pizze
 
+### Portfolio
+<a href="jaanikaukonen.com" target="_blank">jaanikaukonen.com</a>
+
 ### Connect with me:
 [<img align="left" alt="Facebook" height="32" width="32" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
 [<img align="left" alt="LinkedIn" height="32" width="32" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
