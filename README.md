@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm obsessed with making artisan style Pizze
 
 ### Portfolio
-<a href="jaanikaukonen.com" target="_blank">jaanikaukonen.com</a>
+[jaanikaukonen.com](jaanikaukonen.com)
 
 ### Connect with me:
 [<img align="left" alt="Facebook" height="32" width="32" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
