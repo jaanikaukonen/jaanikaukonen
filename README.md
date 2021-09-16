@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm obsessed with making artisan style Pizze
 
 ### Portfolio
-[jaanikaukonen.com](jaanikaukonen.com)
+[jaanikaukonen.com][portfolio]
 
 ### Connect with me:
 [<img align="left" alt="Facebook" height="32" width="32" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
@@ -26,6 +26,6 @@
 <img align="left" alt="Sass" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-
+[portfolio]: https://jaanikaukonen.com/
 [facebook]: https://www.facebook.com/jaani.kaukonen.5/
 [linkedin]: https://www.linkedin.com/in/jaani-kaukonen-4a75031b9
